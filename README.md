@@ -75,6 +75,10 @@ Optionally middle-drag that snippet to a shelf button.
 2. Set the mirror source mesh → `Mirror Deformer Weights`
    (weights land on the matching `R_*` deformer)
 
+[![](https://img.youtube.com/vi/by25g-bNUL0/0.jpg)](https://www.youtube.com/watch?v=by25g-bNUL0)
+
+
+
 ---
 
 ## Requirements
