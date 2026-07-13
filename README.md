@@ -28,6 +28,7 @@ Mirror deformer weights across an axis, with **closest-point mapping** so it wor
 - Tabbed window with per-tab **progress bars**
 - Clear, specific error messages (what's wrong and how to fix it)
 - Automatic JSON backups of every transfer in the system temp folder
+  https://github.com/saurabh121/defWeightTransfer/blob/main/docs/ui.png
 
 ---
 
