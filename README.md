@@ -2,7 +2,7 @@
 
 A fast, artist-friendly Maya tool for **transferring, mirroring, and converting deformer weights** between meshes — built for production rigging workflows on high-poly characters.
 
-Copying painted deformer weights (bend, cluster, FFD, nonLinear, etc.) from one mesh to another in Maya is normally slow and manual. This tool automates the whole pipeline — and because all weight I/O is **batched through the OpenMaya API and sliced attribute writes**, it stays fast even on meshes with hundreds of thousands of vertices (seconds instead of minutes).
+Copying painted deformer weights (bend, cluster, FFD, delta mshm, nonLinear, etc.) from one mesh to another in Maya is normally slow and manual. This tool automates the whole pipeline — and because all weight I/O is **batched through the OpenMaya API and sliced attribute writes**, it stays fast even on meshes with hundreds of thousands of vertices (seconds instead of minutes).
 
 ![Maya](https://img.shields.io/badge/Maya-2024%2B-37A5CC) ![Python](https://img.shields.io/badge/Python-3.x-3776AB) ![License](https://img.shields.io/badge/license-MIT-green)
 
